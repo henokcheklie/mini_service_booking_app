@@ -1,0 +1,43 @@
+name: mini_service_booking_app
+description: A Flutter app for managing services with GetX and Clean Architecture.
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+
+  # State Management & Navigation
+  get:
+
+  # Networking & API
+  http:
+
+  # Persistence
+  hive:
+  hive_flutter:
+
+  # UI & Widgets
+  cached_network_image:
+  smooth_star_rating_null_safety:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # Code Generation
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.15
+
+  # Build & Tooling
+  flutter_launcher_icons: ^0.14.3
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icon/
+    - assets/screenshots/
