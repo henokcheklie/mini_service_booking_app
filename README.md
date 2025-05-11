@@ -72,9 +72,9 @@ Shows detailed service info with Hero animations.
 Features custom dropdowns, validation, and multi-language support.
 
 <p float="left">
-  <img src="screenshots/create_light.png" width="240" />
-  <img src="screenshots/edit_light.png" width="240" />
-  <img src="screenshots/create_dark.png" width="240" />
+  <img src="assets/screenshots/create_light.png" width="240" />
+  <img src="assets/screenshots/edit_light.png" width="240" />
+  <img src="assets/screenshots/create_dark.png" width="240" />
 </p>
 
 ### Service List Screen
@@ -82,7 +82,7 @@ Features custom dropdowns, validation, and multi-language support.
 Displays a scrollable list with search and filter options.
 
 <p float="left">
-  <img src="screenshots/service_list_light.png" width="300" />
+  <img src="assets/screenshots/service_list_light.png" width="300" />
 </p>
 
 ### Profile Screen
@@ -90,8 +90,8 @@ Displays a scrollable list with search and filter options.
 Allows language and theme switching.
 
 <p float="left">
-  <img src="screenshots/profile_light.png" width="300" />
-  <img src="screenshots/profile_dark.png" width="300" />
+  <img src="assets/screenshots/profile_light.png" width="300" />
+  <img src="assets/screenshots/profile_dark.png" width="300" />
 </p>
 
 ### Login Screen
@@ -99,7 +99,7 @@ Allows language and theme switching.
 Allows users to authenticate
 
 <p float="left">
-  <img src="screenshots/login_light.png" width="300" />
+  <img src="assets/screenshots/login_light.png" width="300" />
 </p>
 
 ## Implemented Features
