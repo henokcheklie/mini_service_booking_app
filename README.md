@@ -64,7 +64,7 @@ Shows detailed service info with Hero animations.
 
 <p float="left">
   <img src="assets/screenshots/detail_light.png" width="300" />
-  <img src="assets/screenshots/detail_darkt.png" width="300" />
+  <img src="assets/screenshots/detail_dark.png" width="300" />
 </p>
 
 ### Add/Edit Service Screen
