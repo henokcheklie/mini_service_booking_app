@@ -52,10 +52,10 @@ Follow these steps to set up and run the project locally:
 Displays a scrollable list with search and filter options.
 
 <p float="left">
-  <img src="screenshots/home_light.png" width="240" />
-  <img src="screenshots/home_dark.png" width="240" /> 
-  <img src="screenshots/home_search_light.png" width="240" />
-  <img src="screenshots/home_filter_light.png" width="240" />
+  <img src="assets/screenshots/home_light.png" width="240" />
+  <img src="assets/screenshots/home_dark.png" width="240" /> 
+  <img src="assets/screenshots/home_search_light.png" width="240" />
+  <img src="assets/screenshots/home_filter_light.png" width="240" />
 </p>
 
 ### Service Detail Screen
@@ -63,8 +63,8 @@ Displays a scrollable list with search and filter options.
 Shows detailed service info with Hero animations.
 
 <p float="left">
-  <img src="screenshots/detail_light.png" width="300" />
-  <img src="screenshots/detail_darkt.png" width="300" />
+  <img src="assets/screenshots/detail_light.png" width="300" />
+  <img src="assets/screenshots/detail_darkt.png" width="300" />
 </p>
 
 ### Add/Edit Service Screen
